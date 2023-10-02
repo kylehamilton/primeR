@@ -1,2 +1,2 @@
 # primeR
- Helpful functions for dealing with prime numbers
+Helpful functions for dealing with prime numbers
